@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anoshiri
-- 👀 I’m interested in Data Analysis and Backend Development with PHP and JS.
-- 🌱 I’m currently learning data science and business analytics and typescript.
-- 💞️ I’m looking to collaborate on both
+- 👋 Hi, I’m Chuks
+- 👀 I’m interested in Data Science, Backend Development with PHP and JS.
+- 🌱 I’m currently learning data science, business analytics and typescript.
+- 💞️ I’m looking to collaborate on developer in these areas.
 - 📫 How to reach me: @anoshiri
 
 <!---
