@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chuks
-- 👀 I’m interested in Data Science, Backend Development with PHP and JS.
+- 👀 I’m interested in Web Development with PHP and JS and Data Science.
 - 🌱 I’m currently learning data science, business analytics and typescript.
-- 💞️ I’m looking to collaborate on developer in these areas.
+- 💞️ I’m looking to collaborate on developements in these areas.
 - 📫 How to reach me: @anoshiri
 
 <!---
