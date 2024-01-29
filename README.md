@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Chuks
-- 👀 I’m a developer interested in Web Development with PHP, Laravel, Typescript, JS, React, Vue.js and Data Science with Python
+- 👀 I’m a developer interested in Web Development with PHP, Laravel, Typescript, JS, React, Vue.js
+- 👀 I am curious about the uses and relationships between data elements, thus Data Science with Python.
 - 🌱 Linux server administration, AWS and Digital Ocean
 - 💞️ I’m looking to collaborate on developments in these areas.
 - 📫 I'm @anoshiri on social media platforms.
